@@ -27,6 +27,6 @@ Hi! I'm Sergio and I'm a computer science student at the University of Granada (
     <summary><b>My Github Stats</b>: </summary>
 <br/>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sergioguaka&count_private=true&show_icons=true&theme=default"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergioguaka&count_private=true&layout=compact&theme=default"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sergiocampoy&count_private=true&show_icons=true&theme=default"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocampoy&count_private=true&layout=compact&theme=default"/>
 </p>
